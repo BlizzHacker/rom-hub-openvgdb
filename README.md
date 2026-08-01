@@ -1,5 +1,8 @@
 # OpenVGDB plugin for ROM Hub
 
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
+Oklahoma non-profit corporation with 501(c)(3) status pending.
+
 Implements the RPP v1 `metadata` capability: proposes a **curated title** and a
 cover for a ROM already in your library, from the
 [Open Video Game Database](https://github.com/OpenVGDB/OpenVGDB) — a freely
